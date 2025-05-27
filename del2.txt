@@ -1,0 +1,11 @@
+git init 
+git add [filename or "." for staging all files]
+git commit -m "title" -m "description"
+git remote add origin master <master-ULR>
+git push -u origin
+
+
+
+git add [filename or "." for staging all files]
+git commit -m "title" -m "description"
+git push
